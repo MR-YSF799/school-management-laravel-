@@ -12,6 +12,7 @@
     <a class="navbar-brand fw-bold" href="/">📚 SMS</a>
     <div class="navbar-nav ms-3 flex-row gap-3">
         <a class="nav-link text-white" href="{{ route('students.index') }}">Students</a>
+        <a class="nav-link text-white" href="{{ route('courses.index') }}">Courses</a>
     </div>
 </nav>
 
